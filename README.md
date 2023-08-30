@@ -1,5 +1,7 @@
 <a name="readme-top"></a>
 
+# Rapid Prototyping
+
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Stargazers](https://img.shields.io/github/stars/peterhinge/rapid-prototyping.svg)](https://github.com/peterhinge/rapid-prototyping/stargazers)
 [![Forks](https://img.shields.io/github/forks/peterhinge/rapid-prototyping.svg)](https://github.com/peterhinge/rapid-prototyping/network/members)
@@ -16,7 +18,7 @@
   <h2 align="center">Rapid Prototyping</h2>
 
   <p align="center">
-    A collectiong of README templates!
+    A collection of different ready-to-go ML models for Proof of Concept for customers/stackholders
     <br />
     <a href="https://github.com/peterhinge/rapid-prototyping">View Demo</a>
     ·
