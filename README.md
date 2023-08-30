@@ -66,11 +66,9 @@ Use the `BLANK_README.md` to get started.
 <!-- TECH STACK -->
 ### Tech Stack
 
-Tech stack examples.
-
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-<img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="PyTorch" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" />
+<img align="left" alt="OpenCV" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,18 +83,12 @@ How to get started
 <!-- REQUIREMENTS -->
 ### Requirements
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Python Versions](https://img.shields.io/pypi/pyversions/Markdown.svg)]
-* [![Django Versions](https://img.shields.io/pypi/pyversions/Markdown.svg)](https://www.djangoproject.com/)
-* [![Django Versions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg)[>=5.3]](https://getbootstrap.com/)
+* [![Python Versions](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)
 
 Find full in requrements.txt
 
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Clone the reposetory
    ```sh
@@ -116,6 +108,6 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
