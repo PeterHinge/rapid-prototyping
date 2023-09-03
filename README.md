@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Rapid Prototyping
+# BLUEPRINT: Rapid Prototyping
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Stargazers](https://img.shields.io/github/stars/peterhinge/rapid-prototyping.svg)](https://github.com/peterhinge/rapid-prototyping/stargazers)
@@ -18,7 +18,7 @@
   <h2 align="center">Rapid Prototyping</h2>
 
   <p align="center">
-    A collection of different ready-to-go ML models for Proof of Concept for customers/stackholders
+    A collection of different ready-to-go ML models for Proof of Concept for customers/stackholders.
     <br />
     <a href="https://github.com/peterhinge/rapid-prototyping">View Demo</a>
     ·
@@ -58,9 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
-
-Use the `BLANK_README.md` to get started.
+This project is a collection of different ready-to-go ML models, along with different frameworks. It makes it easy and fast to create model prototypes to demonstrate model value or priciples to customers/stackholders. This projects includes ML models and visualization tools for a multitude of ML deciplines: Anomaly Detection, Computer Vision, Natual Language Processing and Time Series. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +90,7 @@ How to get started
 <!-- REQUIREMENTS -->
 ### Requirements
 
-* [![Python Versions](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)
+* [![Python Versions](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org)
 
 Find full in requrements.txt
 
@@ -103,15 +101,7 @@ Find full in requrements.txt
    ```sh
    git clone https://github.com/PeterHinge/README-templates.git
    ```
-2. Install Python
-3. Install Django
-   ```sh
-   pip install django
-   ```
-4. Start the server 
-   ```sh
-   python manage.py runserver
-   ```
+2. Install Python: https://www.python.org
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
